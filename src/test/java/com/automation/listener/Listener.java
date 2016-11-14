@@ -14,7 +14,6 @@ public class Listener implements ITestListener, ISuiteListener,
 		IInvokedMethodListener {
 
 	// This belongs to ISuiteListener and will execute before the Suite start
-	@Override
 	public void onStart(ISuite arg0) {
 
 		Reporter.log("onStart");
@@ -23,7 +22,6 @@ public class Listener implements ITestListener, ISuiteListener,
 
 	// This belongs to ISuiteListener and will execute, once the Suite is
 	// finished
-	@Override
 	public void onFinish(ISuite arg0) {
 
 		Reporter.log("onFinish");
