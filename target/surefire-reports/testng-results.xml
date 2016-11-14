@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNgMavenExampleSuite" duration-ms="102873" started-at="2016-11-07T07:28:56Z" finished-at="2016-11-07T07:30:39Z">
+    <groups>
+    </groups>
+    <test name="TestNgMavenTest" duration-ms="102873" started-at="2016-11-07T07:28:56Z" finished-at="2016-11-07T07:30:39Z">
+      <class name="com.javacodegeeks.testng.maven.TestNgMavenExample">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.javacodegeeks.testng.maven.TestNgMavenExample@5737be7]" name="beforeTest" is-config="true" duration-ms="19181" started-at="2016-11-07T12:58:56Z" finished-at="2016-11-07T12:59:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:com.javacodegeeks.testng.maven.TestNgMavenExample@5737be7]" name="exampleOfTestNgMaven" duration-ms="83661" started-at="2016-11-07T12:59:15Z" finished-at="2016-11-07T13:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+      </class> <!-- com.javacodegeeks.testng.maven.TestNgMavenExample -->
+    </test> <!-- TestNgMavenTest -->
+  </suite> <!-- TestNgMavenExampleSuite -->
+</testng-results>
