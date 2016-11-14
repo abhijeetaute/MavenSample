@@ -3,7 +3,7 @@
   <groupId>com.javacodegeeks.testng.maven</groupId>
   <artifactId>testNgMavenExample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-		<packagings>jar</packaging>
+		<packagings>jar</packagings>
   <name>ReferenceAppAppiumTests</name>
    
   	<dependencies>
