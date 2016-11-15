@@ -27,6 +27,8 @@ public class TestNgMavenExample implements HomePageLocators{
 	WebDriverWait wait=null;
 	static AndroidDriver androidDriver=null;
 	
+
+
 	@BeforeTest
 	public void beforeTest() throws MalformedURLException{
 		
